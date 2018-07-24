@@ -45,4 +45,4 @@ drwxrwxrwt 35 root root    4096 Jul 25 00:07 ..
 
 License:
 --------
-Released under [The MIT License](https://github.com/delimitry/pepfs/blob/master/LICENSE).
+Released under [The MIT License](https://github.com/delimitry/pepfs/blob/master/LICENSE)
