@@ -79,7 +79,6 @@ class PEPFS(LoggingMixIn, Operations):
                 'st_size': dir_size,
             }
         else:
-            size = 0
             name = os.path.basename(path)
             # handle other files
             if name not in self.peps_data:
